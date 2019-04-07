@@ -1,0 +1,19 @@
+body {
+    background-image: url(./projekt.jpg);
+    background-size: 100%;
+}
+
+nav > div {
+    background-color: black;
+}
+
+ol {
+    font-size: 20px;
+    color: red;
+    margin-left: 300px;
+}
+
+iframe {
+    margin-top: 50px;
+    margin-left: 500px;
+}

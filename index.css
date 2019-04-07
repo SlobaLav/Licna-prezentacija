@@ -1,0 +1,8 @@
+body {
+    background-image: url(./lion.jpg);
+    background-size: 100%;
+}
+
+nav > div {
+    background-color: black;
+}

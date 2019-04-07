@@ -1,0 +1,12 @@
+body {
+    background-image: url(./diplomiranje.jpg);
+    background-size: 100%;
+}
+
+nav > div {
+    background-color: black;
+}
+
+.table tbody tr:hover td, .table tbody tr:hover th {
+    background-color: orange;
+}
